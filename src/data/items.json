@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "category": "iPhone",
+      "name": "iPhone 14 Pro Max",
+      "image": "iphone14.jpeg",
+      "price": 144000
+    },
+    {
+      "id": 2,
+      "category": "iPhone",
+      "name": "iPhone 12",
+      "image": "iphone12.jpg",
+      "price": 80000
+    },
+    {
+      "id": 3,
+      "category": "iPhone",
+      "name": "iPhone SE",
+      "image": "iphone-se.jpg",
+      "price": 55000
+    },
+    {
+      "id": 4,
+      "category": "iPad",
+      "name": "iPad Pro",
+      "image": "ipad-pro.jpg",
+      "price": 93000
+    },
+    {
+      "id": 5,
+      "category": "iPad",
+      "name": "iPad Mini",
+      "image": "ipad-mini.jpg",
+      "price": 39000
+    },
+    {
+      "id": 6,
+      "category": "Airpods",
+      "name": "Airpods Pro",
+      "image": "airpods-pro.jpg",
+      "price": 18000
+    },
+    {
+      "category": "Watch",
+      "name": "Watch Ultra",
+      "image": "watch-ultra.jpg",
+      "price": 75000
+    },
+    {
+      "id": 7,
+      "category": "Watch",
+      "name": "Watch 8",
+      "image": "watch8.jpeg",
+      "price": 44000
+    },
+    {
+      "id": 8,
+      "category": "Macbook",
+      "name": "Macbook Pro 14",
+      "image": "mac-pro.jpeg",
+      "price": 180000
+    },
+    {
+      "id": 9,
+      "category": "Аксессуары",
+      "name": "Чехол",
+      "image": "case.jpg",
+      "price": 3000
+    }
+  ]
+}
