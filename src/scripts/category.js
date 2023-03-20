@@ -1,5 +1,5 @@
-const { createCategoryItems } = require("./htmlHelper");
-const { getCategoryItems } = require("./itemsDataHelper");
+import { createCategoryItems } from "./htmlHelper";
+import { getCategoryItems } from "./itemsDataHelper";
 
 let params = new URLSearchParams(location.search);
 let categoryName = params.get("name");
