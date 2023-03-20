@@ -6,3 +6,6 @@ let categoryName = params.get("name");
 
 const items = getCategoryItems(categoryName);
 createCategoryItems(items);
+
+const title = document.querySelector("title");
+title.innerText = categoryName;
